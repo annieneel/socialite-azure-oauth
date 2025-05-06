@@ -1,6 +1,6 @@
 <?php
 
-namespace Bepark\SocialiteAzureOAuth;
+namespace Annieneel\SocialiteAzureOAuth;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;

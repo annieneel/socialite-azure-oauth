@@ -26,6 +26,6 @@ return [
 		'auth_controller' => null,
 
 		//provider used to generate the socialite driver. This can be overrided if you need to extends it.
-		'provider' => \Bepark\SocialiteAzureOAuth\AzureOauthProvider::class,
+		'provider' => \Annieneel\SocialiteAzureOAuth\AzureOauthProvider::class,
 	],
 ];

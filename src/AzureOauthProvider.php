@@ -1,6 +1,6 @@
 <?php
 
-namespace Bepark\SocialiteAzureOAuth;
+namespace Annieneel\SocialiteAzureOAuth;
 
 use GuzzleHttp\Exception\ClientException;
 use Illuminate\Support\Arr;

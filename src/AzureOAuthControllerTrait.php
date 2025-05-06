@@ -1,6 +1,6 @@
 <?php
 
-namespace Bepark\SocialiteAzureOAuth;
+namespace Annieneel\SocialiteAzureOAuth;
 
 use Laravel\Socialite\Facades\Socialite;
 use Laravel\Socialite\Contracts\User;
